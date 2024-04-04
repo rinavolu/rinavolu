@@ -28,7 +28,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=black)](https://t.me/ravindra111)
 [![Steam](https://img.shields.io/badge/steam-blue?logo=steam)](https://steamcommunity.com/profiles/76561198431396310/)
 
----
 ## Recent Works:
 
 <table>
@@ -38,7 +37,6 @@
     </tr>
 </table>
 
----
 
 ## Contribution Stats:
 <table>
