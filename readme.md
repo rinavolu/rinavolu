@@ -46,10 +46,10 @@
     </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rinavolu&theme=onedark&no-frame=true)](https://github.com/rinavolu) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=rinavolu&theme=onedark&no-frame=true)](https://github.com/rinavolu) 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rinavolu&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=10&layout=compact&card_width=1000" height="200" alt="streak graph" align="center"/>
-</div>
+</div> -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinavolu&theme=chartreuse-dark&radius=14&hide_border=true)
