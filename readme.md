@@ -28,9 +28,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=black)](https://t.me/ravindra111)
 [![Steam](https://img.shields.io/badge/steam-blue?logo=steam)](https://steamcommunity.com/profiles/76561198431396310/)
 
-## Recent Works:
-
-<table>
+<!-- ## Recent Works:
+ <table>
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rinavolu&show_owner=rinavolu&repo=MazeBank&theme=chartreuse-dark&radius=14&hide_border=true" alt="cont"/></td>
         <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rinavolu&show_owner=rinavolu&repo=Youtube-Application&theme=chartreuse-dark&radius=14&hide_border=true" alt="cont"/></td>
@@ -47,7 +46,7 @@
     </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rinavolu&theme=onedark&no-frame=true)](https://github.com/rinavolu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rinavolu&theme=onedark&no-frame=true)](https://github.com/rinavolu) -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rinavolu&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=10&layout=compact&card_width=1000" height="200" alt="streak graph" align="center"/>
