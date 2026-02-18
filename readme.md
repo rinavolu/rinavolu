@@ -5,7 +5,7 @@
 <h1 align="center">Hello👋, I'm Ravindranadh Inavolu </h1>
 <p align="center">
   <em>A skilled software developer from Chennai, India. Proficient in
-  <strong> Java, Python, C, HTML, CSS,</strong> and <strong>PHP</strong>,
+  <strong> Java & Python</strong>,
   I specialize in frameworks like <strong>Spring Boot, JavaFX,</strong> and tools like <strong>Docker, Kubernetes, Arduino,</strong> and <strong>Git.</strong> 
   My experience spans across cloud platforms like <strong>GCP</strong> and <strong>Azure</strong>, along with expertise in <strong>Angular, Raspberry-pi, Batch Jobs, Web Scrapping,</strong> and database management including
   <strong>Oracle, MySQL, PostgreSQL, Cassandra</strong> and <strong>Astra.</strong>
